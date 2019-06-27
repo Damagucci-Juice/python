@@ -1,3 +1,10 @@
-a = input()
-b = input()
+a = int(input())
+b = int(input())
 result = a + b
+print(a, "+", b, "=", result)
+result = a - b
+print(a, "-", b, "=", result)
+result = a * b
+print(a, "*", b, "=", result)
+result = a / b
+print(a, "/", b, "=", result)
