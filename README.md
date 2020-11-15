@@ -1,5 +1,6 @@
-# python1
-실습1
-Hello world!
+python
+===
 
-pull test
+가벼운 파이썬 문법을 정리합니다.
+---
+
